@@ -1,1 +1,26 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+  padding-top: 20px;
+}
+
+.container {
+  background-color: white;
+  width: 400px;
+  height: 600px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+#numero {
+  padding-top: 100px;
+}
+
+/* Icono en el before de icono-1 */
+#icono-1 {
+  font-size: 90px;
+}
+
+/*icono-2*/
+#icono-2 {
+  font-size: 90px;
+}
